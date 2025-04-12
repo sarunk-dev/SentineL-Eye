@@ -12,8 +12,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/ssrikanthreddy/Alertr.svg)](https://github.com/ssrikanthreddy/Alertr/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ssrikanthreddy/Resonex)](https://github.com/ssrikanthredddy/Alertr/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/ssrikanthreddy/Alertr.svg)](https://github.com/sarunk-dev/SentineL-Eye/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ssrikanthreddy/Resonex)](https://github.com/sarunk-dev/SentineL-Eye/pulls)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE.md)
 
 **Sentinel Eye** is a real-time face tracking system using Python, OpenCV, and Arduino. It detects faces using MediaPipe and controls two servo motors (pan/tilt) through an Arduino Uno to track the target.
