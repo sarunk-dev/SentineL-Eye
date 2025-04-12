@@ -1,22 +1,36 @@
 
-# SENTINEL EYE 
+<br>
+
+<div id="top">
+<p align="center">
+  <a href="https://github.com/sarunk-dev/SentineL-Eye" target="_blank" rel="noopener noreferrer">
+    <img width = "200" src="https://i.postimg.cc/MHBg5XZC/1-initial-letter-e-for-eye-vision-logo-design-vector.jpg">
+  </a>
+</p>
+</div>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/ssrikanthreddy/Alertr.svg)](https://github.com/ssrikanthreddy/Alertr/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ssrikanthreddy/Resonex)](https://github.com/ssrikanthredddy/Alertr/pulls)
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE.md)
 
 **Sentinel Eye** is a real-time face tracking system using Python, OpenCV, and Arduino. It detects faces using MediaPipe and controls two servo motors (pan/tilt) through an Arduino Uno to track the target.
 
-## 🌟 Overview
+</div>
 
-Sentinel Eye addresses the need for smart surveillance by proposing a real-time face tracking system using MediaPipe and Arduino-controlled servos. It enables accurate face detection, smooth pan-tilt tracking, and user-selectable targets, offering a low-cost, scalable solution for security and defense applications.
 ## 💫 Features
 
- **Real-Time Face Tracking:** Uses a webcam and Mediapipe's face detection to follow a person's face dynamically.
+- **Real-Time Face Tracking:** Uses a webcam and Mediapipe's face detection to follow a person's face dynamically.
 
- **Dual Servo Control:** Controls two servo motors (X and Y axis) via Arduino (Pin 9 and 10) for precise panning and tilting.
+- **Dual Servo Control:** Controls two servo motors (X and Y axis) via Arduino (Pin 9 and 10) for precise panning and tilting.
 
- **Target Selection UI:** Displays selectable buttons for choosing one target when multiple faces are detected.
+- **Target Selection UI:** Displays selectable buttons for choosing one target when multiple faces are detected.
 
- **Smooth Movement:** Implements interpolated and gradual servo positioning for stable and natural tracking.
+- **Smooth Movement:** Implements interpolated and gradual servo positioning for stable and natural tracking.
 
- **Auto Recenter:** Repositions the servos to default center angles (90°) when no face is detected or upon exit.
+- **Auto Recenter:** Repositions the servos to default center angles (90°) when no face is detected or upon exit.
 ## ⚒️ Built Using
 </p>
 
