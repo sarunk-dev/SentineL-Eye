@@ -18,8 +18,6 @@ Sentinel Eye addresses the need for smart surveillance by proposing a real-time 
 
  **Auto Recenter:** Repositions the servos to default center angles (90°) when no face is detected or upon exit.
 ## ⚒️ Built Using
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left"></h3>
