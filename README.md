@@ -92,8 +92,14 @@ To run Sentinel eye locally, follow these steps:
 ```bash
   python sentinel_eye.py
 ```
+<div align="center">
+  
+![](<https://media-hosting.imagekit.io/5f7d94299ba045c3/images_page-0001.jpg?Expires=1840038866&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=EfpiomYU1BV~hCruq3M-iXagD956w6wXOaYZLG3TjebWt0Md5GeWBCSpDZSUPytVlOwlw~E1yFGu9qVAIf5djpPrLlYcr1-2dWrAXlxIvznZH8iqHDuZJL6ptRM9~TBFIm-LePKkT4TCsIdHrIS2r1HEfKmYLRp4PMRRwLbBXc1UXwC-aUHhHMc8NmzKDAzlfjBwfdRdc~K7MZ7xxs2xxJBbFpoo0d5qyqKmQWD-o8it5o~ozl-tPR8eTJnXveq6geXZ88KwF0Od09s7QSZA4TiDX86ZbIBzjaj29K2k6BlyetQ2Lu6KDjiH0PU35ED0~qimgbu3regcfyDvAF8h3A__>)
 
-
+Project Working video: https://drive.google.com/file/d/19o3qfNmP3rS6Fb4DvcrScT7lfiAZ3S8T/view?usp=sharing
+  
+</div>
+  
 ## 🛠 Issue Fix:
 
 **Attribute Error:** module 'inspect' has no attribute 'getargspec'
