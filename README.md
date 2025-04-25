@@ -70,8 +70,10 @@ pip install opencv-python mediapipe pyfirmata numpy
 
 ## 🖥️ System Diagram
 <div align="center">
-
-![](https://media-hosting.imagekit.io/98b8ae1a6ae04808/Capture.PNG?Expires=1839000681&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Mi~DtI3kkv9vaaLg-kzvnQUGPbnkJwWY1XufwLL5VeC6PMiVHFmizHrGuILvvZFvsKykvK2XU5hRqXGQtO26n4Rzi8yigILLHIr~ih5-KofLezaRNruJXtYNvzIBzyAjrwHbQJYKmiiq5g3BaK~gIH8od4vcoR0pZM3~ewa4-Dm25REg20LoU~3tDgmH9NcuIkyQDi8ol-re8vcKtt9Fp~m45k2znuhv1PdYuGeLQZpYpTXu-fITEzG4rqR6wZxWLevYf0Wa56zsVi0ugl3ZuXlWJ1vQTRWhWPK7ePc~VVB8DpxtbJkULNkXGLS1m8deJ99rr7QAYYcGcCsBgqfg-A__)
+  
+<td>
+<img src="https://media-hosting.imagekit.io/98b8ae1a6ae04808/Capture.PNG?Expires=1839000681&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Mi~DtI3kkv9vaaLg-kzvnQUGPbnkJwWY1XufwLL5VeC6PMiVHFmizHrGuILvvZFvsKykvK2XU5hRqXGQtO26n4Rzi8yigILLHIr~ih5-KofLezaRNruJXtYNvzIBzyAjrwHbQJYKmiiq5g3BaK~gIH8od4vcoR0pZM3~ewa4-Dm25REg20LoU~3tDgmH9NcuIkyQDi8ol-re8vcKtt9Fp~m45k2znuhv1PdYuGeLQZpYpTXu-fITEzG4rqR6wZxWLevYf0Wa56zsVi0ugl3ZuXlWJ1vQTRWhWPK7ePc~VVB8DpxtbJkULNkXGLS1m8deJ99rr7QAYYcGcCsBgqfg-A__" alt="sys GIF" height="400"/>
+</td>
 
 </div>
 
