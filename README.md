@@ -85,7 +85,7 @@ To run Sentinel eye locally, follow these steps:
   
 *2 - Connect your webcam.*
 
-*3 - Create a virtual environment `python -m venv venv`*
+*3 - Create a virtual environment in VS code `python -m venv venv`*
 
 *4 - Activate the virtual environment `.\venv\Scripts\activate`*
 
