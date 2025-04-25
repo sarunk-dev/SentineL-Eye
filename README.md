@@ -81,6 +81,8 @@ To run Sentinel eye locally, follow these steps:
 
 *1 - Upload StandardFirmata to Arduino via Arduino IDE.*
 
+  → *open Arduino IDE* `File → Examples → Firmata → StandardFirmata` *Select COM & Click Upload*
+  
 *2 - Connect your webcam.*
 
 *3 - Create a virtual environment `python -m venv venv`*
