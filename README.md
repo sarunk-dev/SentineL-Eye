@@ -101,7 +101,7 @@ To run Sentinel eye locally, follow these steps:
 <table>
   <tr>
     <td>
-      <img src="https://media-hosting.imagekit.io/febff6da324140b2/ezgif-7cc6609cca1031.gif?Expires=1840206310&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=EPOVPnkRMNXCXmTgnMAspiimbu4PNe9qzB3Dfbx8h0KQYKYfOKIs0Rgicr75x9See40ieD4XWxHJONgLvjsd5av2HvAu1aOcTrLGrdQoM2fDezi7wFLX0uy6qxGAuQvRI2CEE8sY7mFv4LoZRxqoQeCNjYY7D1dlFDXWugoP-Yywyc7dsCsH-kZnGR6BBGsJ9GmC3I4y1w54xkb1TQe8r8uDewINT79bdiFvdu7dit1OqvgQFZDL3vlfRlsswcO5j6sN137i7PZ2wEUe5wU07iFS-AjONK3f6Q5hyG4tFIaNz9c6rAGAlybe5qfvHbJiAum1ML8bnpWRPDK1Q-YqrA__" alt="Vertical GIF" height="400"/>
+      <img src="https://ik.imagekit.io/5wmite5wnf/ezgif-7cc6609cca1031.gif?updatedAt=1747403486887" alt="Vertical GIF" height="400"/>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/9db9361f-f533-40e3-af89-cc5af37dcb2e" alt="Horizontal GIF" height="500"/>
